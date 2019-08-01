@@ -1,0 +1,7 @@
+{
+  "name": "suits",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
